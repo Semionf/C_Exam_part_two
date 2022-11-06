@@ -46,7 +46,8 @@ int main()
 			printf("No such option");
 			break;
 		}
-	}
+	} 
+	return res;
 }
 
 int initList() {
